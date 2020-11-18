@@ -15,6 +15,6 @@ public class HelloWorld {
 	}
 
 	public void getInfo(){
-		System.out.pringln("确实");
+		System.out.println("确实");
 	}
 }
