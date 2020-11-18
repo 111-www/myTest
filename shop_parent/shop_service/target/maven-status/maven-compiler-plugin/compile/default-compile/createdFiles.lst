@@ -1,0 +1,4 @@
+com\gec\service\impl\ProductServiceImpl.class
+com\gec\service\UserService.class
+com\gec\service\impl\UserServiceImpl.class
+com\gec\service\ProductService.class

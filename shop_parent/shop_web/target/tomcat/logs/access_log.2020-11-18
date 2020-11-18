@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:09:24:19 +0800] "GET /shop_web/ HTTP/1.1" 200 310 http-bio-8080-exec-1 95
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:09:24:19 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:09:24:24 +0800] "POST /shop_web/user/dologin HTTP/1.1" 200 1065 http-bio-8080-exec-4 870
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:09:24:24 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:09:24:27 +0800] "GET /shop_web/product/getProduct.action?id=3 HTTP/1.1" 404 1019 http-bio-8080-exec-6 4
