@@ -7,5 +7,10 @@ public class HelloWorld {
 	
 	public void show(){
 		System.out.println("哈哈哈");
+		
+	}
+	
+	public void showInfo(){
+		System.out.println("你好");
 	}
 }
