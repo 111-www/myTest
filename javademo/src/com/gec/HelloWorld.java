@@ -13,4 +13,8 @@ public class HelloWorld {
 	public void showInfo(){
 		System.out.println("你好");
 	}
+
+	public void getInfo(){
+		System.out.pringln("确实");
+	}
 }
